@@ -23,12 +23,16 @@
 ## 👨‍💻 About Me
 
 Hi! I'm **Mahmoud Arafat** — a **Computer Engineer** and **Full-Stack Developer**.  
-I enjoy building **secure, scalable, and high-performance software systems**, with a strong focus on backend architecture, clean APIs, and real-world production-ready solutions.
+I started my journey with a strong focus on **frontend development** during my university years, and later expanded into **backend architecture and system design**. Today, I’m actively building my expertise in **AI, computer vision, and automation systems**.
+
+I enjoy creating **secure, scalable, and high-performance software solutions** that are production-ready and designed for real-world use.
 
 - 🎓 Bachelor’s in Computer Engineering — **An-Najah National University**
-- 🚀 Backend-focused Full-Stack Developer (APIs, Architecture, Security)
-- 🤖 Interested in **AI / Computer Vision / Automation**
+- 🎨 Former Frontend-focused Developer → ⚙️ Backend-focused Engineer
+- 🤖 Currently developing skills in **AI / Computer Vision / Automation**
+- 🔐 Passionate about clean architecture, APIs, and security
 - 🤝 Team-oriented, solution-driven, and always improving
+
 
 ---
 
