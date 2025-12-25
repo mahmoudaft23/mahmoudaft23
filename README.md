@@ -5,8 +5,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=From+Frontend+to+Backend+Engineer;Building+Scalable+REST+APIs+%26+Clean+Architecture;Learning+AI+%26+Computer+Vision;Always+Improving+%26+Growing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Started+in+Frontend+Development;Now+Focused+on+Backend+Architecture;Building+Scalable+REST+APIs+%26+Clean+Systems;Learning+AI+%26+Computer+Vision" />
 </p>
+
 
 
 <p align="center">
