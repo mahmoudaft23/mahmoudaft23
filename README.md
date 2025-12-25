@@ -1,6 +1,7 @@
 <p align="center">
   <p align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=a2b7f8&height=260&section=header&text=Mahmoud%20Arafat&fontSize=52&fontColor=000000&animation=fadeIn&desc=Full-Stack%20Developer<br>Computer%20Engineer&descAlignY=58&textBg=false" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=a2b7f8&height=260&section=header&text=Mahmoud%20Arafat&fontSize=52&fontColor=000000&animation=fadeIn&desc=Full-Stack%20Developer|Computer%20Engineer&descLines=2&descAlignY=58&textBg=false" />
+
 
 
 
