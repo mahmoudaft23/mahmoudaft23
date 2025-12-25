@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Mahmoud%20Arafat&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=70" />
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=220&section=header&text=Mahmoud%20Arafat&fontSize=50&fontColor=000000&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=70" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend-focused+Full-Stack+Developer;Scalable+REST+APIs+%26+Clean+Architecture;AI+%26+Computer+Vision+Builder;Always+Learning+%26+Improving" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=From+Frontend+to+Backend+Engineer;Building+Scalable+REST+APIs+%26+Clean+Architecture;Learning+AI+%26+Computer+Vision;Always+Improving+%26+Growing" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahmoud-arafat-4a6777266/">
@@ -116,5 +119,6 @@ Professional website for civil engineers with TCP protocol support.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
 </p>
+
