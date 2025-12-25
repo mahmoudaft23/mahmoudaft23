@@ -64,7 +64,7 @@ I enjoy creating **secure, scalable, and high-performance software solutions** t
 
 ### 🛒 Multi-Vendor Shop — Minimal APIs
 Backend endpoints for a multi-vendor marketplace where vendors can create stores and manage products.  
-🔗 https://github.com/mahmoudaft23/Multi-Vendor-Shop-Minimal-APIs
+🔗 [https://github.com/mahmoudaft23/Multi-Vendor-Shop-Minimal-APIs](https://github.com/mahmoudaft23/Multi-Vendor-Shop-Minimal-APIs-)
 
 ### 🏋️ FitSpark — Training Management System
 A platform for gyms/trainers: plans, scheduling, payments, calorie tracking, rewards + AI features.  
