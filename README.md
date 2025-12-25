@@ -1,34 +1,110 @@
-👨‍💻 Mahmoud Arafat
-Full-Stack Developer | Computer Engineer
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;Computer+Engineer;Backend+Architect;AI+%26+Automation+Builder;Always+Learning+%26+Improving" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=cpp,cs,java,js,php,python,nodejs,react,html,css,docker,mysql,sqlite,linux,git" /> </p>
-🧠 About Me
-🚀 Computer Engineering graduate from An-Najah National University
-💻 Backend-focused Full-Stack Developer
-🔐 Clean architecture, scalable APIs & secure systems
-🤖 AI, automation & computer-vision builder
-🌱 Always learning & improving
-🛠 Tech Stack
-Languages
-🧩 C C++ C# Java JavaScript PHP Python
-Backend
-⚙️ Node.js Express ASP.NET Core REST APIs SQLite MySQL Oracle
-Frontend
-🎨 HTML CSS React React Native
-DevOps & Tools
-🚢 Docker GitHub Linux
-AI / Vision
-🧠 OpenCV MediaPipe Flask NumPy
-🚀 Featured Projects
-🚀 Project	🧩 Description
-Multi-Vendor Shop API	Scalable marketplace backend
-FitSpark AI Platform	Smart gym management & pose tracking
-Arm-Row Pose Tracking API	Real-time AI exercise rep counter
-GreenThumb API	Smart urban gardening backend
-Bazar Bookstore	Online bookstore REST system
-Steganography GUI	Hide messages inside images
-Image Processing Suite	Advanced CV filters & segmentation
-Alsaad Contracting Website	Business website
-📊 GitHub Stats
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?..."> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudaft23&theme=radical" /> </p>
-🌍 Connect With Me
-<p align="center"> <a href="https://www.linkedin.com/in/mahmoud-arafat-4a6777266/"><img src="https://img.shields.io/badge/LinkedIn-MahmoudArafat-0A66C2?style=for-the-badge&logo=linkedin"></a> <a href="mailto:mahmoudarafat0242@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail"></a> <a href="https://github.com/mahmoudaft23"><img src="https://img.shields.io/badge/GitHub-Follow-000000?style=for-the-badge&logo=github"></a> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Mahmoud%20Arafat&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=70" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend-focused+Full-Stack+Developer;Scalable+REST+APIs+%26+Clean+Architecture;AI+%26+Computer+Vision+Builder;Always+Learning+%26+Improving" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahmoud-arafat-4a6777266/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mahmoud%20Arafat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mahmoudarafat0242@gmail.com">
+    <img src="https://img.shields.io/badge/Email-mahmoudarafat0242%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/mahmoudaft23">
+    <img src="https://img.shields.io/badge/GitHub-mahmoudaft23-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Mahmoud Arafat** — a **Computer Engineer** and **Full-Stack Developer**.  
+I enjoy building **secure, scalable, and high-performance software systems**, with a strong focus on backend architecture, clean APIs, and real-world production-ready solutions.
+
+- 🎓 Bachelor’s in Computer Engineering — **An-Najah National University**
+- 🚀 Backend-focused Full-Stack Developer (APIs, Architecture, Security)
+- 🤖 Interested in **AI / Computer Vision / Automation**
+- 🤝 Team-oriented, solution-driven, and always improving
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,php,python,nodejs,express,react,html,css,docker,mysql,sqlite,linux,git&perline=9" />
+</p>
+
+**Backend:** Node.js, Express, ASP.NET Core, REST APIs  
+**Frontend:** React, React Native, HTML, CSS  
+**Databases:** MySQL, SQLite, Oracle  
+**DevOps & Tools:** Docker, Git/GitHub, Linux  
+**AI / Vision:** OpenCV, MediaPipe, Flask, NumPy  
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 Multi-Vendor Shop — Minimal APIs
+Backend endpoints for a multi-vendor marketplace where vendors can create stores and manage products.  
+🔗 https://github.com/mahmoudaft23/Multi-Vendor-Shop-Minimal-APIs
+
+### 🏋️ FitSpark — Training Management System
+A platform for gyms/trainers: plans, scheduling, payments, calorie tracking, rewards + AI features.  
+- 🔗 React Frontend: https://github.com/Graduation-Project-FitSpark/React-FitSpark.git  
+- 🔗 React Native App: https://github.com/Graduation-Project-FitSpark/ReactNative-FitSpark.git  
+- 🔗 Backend: https://github.com/Graduation-Project-FitSpark/NodeJS_FItSpark.git  
+
+### 💪 Arm Row Pose Tracking API
+Real-time streaming + rep counting using OpenCV & MediaPipe.  
+🔗 https://github.com/mahmoudaft23/mediapipeproject
+
+### 🌿 GreenThumb — Urban Gardening API
+Backend API with weather/climate/soil/pest management integration.  
+🔗 https://github.com/mahmoudaft23/GreenThumb.git
+
+### 📚 Bazar.com — Online Bookstore
+Two-tier bookstore app with inventory, transactions & user management.  
+🔗 https://github.com/mahmoudaft23/Dos_Project_Bazar.git
+
+### 🕵️‍♂️ Steganography GUI (LSB)
+Hide / restore secret messages inside images using LSB encoding.  
+🔗 https://github.com/mahmoudaft23/Steganography-with-Tkinter-LSB-Encoding
+
+### 🖼️ Digital Image Processing GUI
+Filters: segmentation, edge detection, Laplacian, thresholding, etc.  
+🔗 https://github.com/mahmoudaft23/image-processing
+
+### 🏗️ Alsaad General Contracting LTD — Website
+Professional website for civil engineers with TCP protocol support.  
+🔗 https://github.com/mahmoudaft23/Alsaad-General-Contracting-LTD..git
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mahmoudaft23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudaft23&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudaft23&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/mahmoud-arafat-4a6777266/  
+- 📧 Email: mahmoudarafat0242@gmail.com  
+- 🧑‍💻 GitHub: https://github.com/mahmoudaft23  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" />
+</p>
