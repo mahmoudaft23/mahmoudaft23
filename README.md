@@ -88,7 +88,10 @@ Professional website for civil engineers with TCP protocol support.
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmoudaft23&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mahmoudaft23&theme=tokyonight&hide_border=true" />
+  <p align="center">
+  <img width="49%" src="https://github.com/mahmoudaft23.png" />
+</p>
+
 </p>
 
 <p align="center">
