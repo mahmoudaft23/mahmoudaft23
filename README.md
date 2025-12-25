@@ -1,6 +1,7 @@
 <p align="center">
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=CDD1EC&height=250&section=header&text=Mahmoud%20Arafat&fontSize=50&fontColor=000000&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=70" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=a2b7f8&height=250&section=header&text=Mahmoud%20Arafat&fontSize=50&fontColor=000000&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Computer%20Engineer&descAlignY=70" style="margin-bottom:-60px;" />
+
 </p>
 
 
@@ -120,6 +121,6 @@ Professional website for civil engineers with TCP protocol support.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a2b7f8&height=120&section=footer" />
 </p>
 
